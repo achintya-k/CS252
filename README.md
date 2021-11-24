@@ -3,6 +3,7 @@ Github repo containing the codes for the assignment of the course CS252-Operatin
 
 Problem statements are,
 1. Problem 2.24.
+
 To write a program that copies the contents of one file to a destination file. This program works by first prompting the user for the name of the source and destination files. Write this program using either the POSIX or Windows API. Be sure to include all necessary error checking, including ensuring that the source file exists.
 
 Once you have correctly designed and tested the program, if you used a system that supports it, run the program using a utility that traces system calls. Linux systems provide the strace utility, and macOs systems use the dtruss command. (The dtruss command, which actually is a front end to dtrace, requires admin privileges, so it must be run using
@@ -18,6 +19,7 @@ Since Windows systems do not provide such a tool, you will have to trace through
 
 
 2. Problem 4.24.
+
 Finding Pi value using the mutlithreaded version of the Montecarlo algorithm. The technique works as follow, suppose you have a circle inscribed in a square, first, generate a series of random points as simple (x,y) coordinates. These points must fall within the Cartesian coordinates that bound the square. Of the total numberof random points that are generated, some will occur within the circle.
 
 Next, estimate x by performing the following calculation:
