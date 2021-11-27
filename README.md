@@ -1,7 +1,7 @@
 # CS252 - Assignment
 ## Achintya K N - 191EC201
 
-Problem statements chosen are,
+Problem statements are from the 10th edition of Operating System Concepts by Abraham Silberschatz, Peter Baer Galvin and Greg Gagne.
 
 ## 1. Problem 2.24.
 
