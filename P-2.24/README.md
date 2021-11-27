@@ -1,6 +1,8 @@
 # Problem 2.24 
 The code file filecopy.c, the text file used for reading, corresponding output files and the strace log file have been included in this repository.
 
+The program first prompts the user to enter read and write files' names and does the necessary error checking for the same followed by the copying of the contents of the source into the destination. The system calls involved during the execution of the program is recorded using `Strace` and saved in `log`.
+
 ### Steps to follow during execution of the code
 1. Compiled the code on the command line: `gcc filecopy.c -o filecopy.o`
 2. Executed program: `./filecopy.o`
