@@ -16,5 +16,5 @@ The program also uses multithreading to separately run the counting part on a di
 3. Time of execution is *1.737739s* using multithreading and the time required for the same input without multithreading was found to be *3.084187s*.
 
 ### References
-1. https://github.com/SeanStaz/monteCarloMethod.c
+1. https://github.com/SeanStaz/monteCarloMethod.c (code has been taken from here)
 
