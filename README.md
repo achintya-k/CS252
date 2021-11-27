@@ -1,7 +1,7 @@
-# CS252
-Github repo containing the codes for the assignment of the course CS252-Operating Systems
+# CS252 - Assignment
+Achintya K N - 191EC201
 
-Problem statements are,
+Problem statements chosen are,
 
 **1. Problem 2.24.**
 
