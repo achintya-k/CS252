@@ -20,4 +20,4 @@ The code file filecopy.c, the text file used for reading, corresponding output f
 
 Finally the strace log file was created using the command mentioned above which is saved in `log` which is included in this repository.
 ### References
-1. https://github.com/mattlevan/copy.c
+https://github.com/mattlevan/copy.c (code has been taken from here)
