@@ -14,7 +14,7 @@ The code file filecopy.c, the text file used for reading, corresponding output f
 2. And shown below is the output and the contents of the write.txt file created as part of the code execution.
 ![image](https://user-images.githubusercontent.com/67586625/143712908-336cf13c-5816-4993-8799-0af6036dfa58.png)
 
-3. The code is written such that a new file name needs to be given as the write file destination so as to avoid overriting of data in existing files. 
+3. The code is written such that a new file name needs to be given as the write file destination so as to avoid overwriting of data. 
 4. This error case is taken care of in the code and below is the screen dump of the same. (executed after write.txt was already created)
 ![image](https://user-images.githubusercontent.com/67586625/143715874-ef45c906-cd2d-4dd0-b53c-ded4aa8cc380.png)
 
